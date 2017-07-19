@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ningnong</string>
+    <string name="signIn">เข้าสู่ระบบ</string>
+    <string name="editText">รหัสประชาชน</string>
+    <string name="editText2">รหัสผ่าน</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
